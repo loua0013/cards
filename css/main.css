@@ -38,7 +38,7 @@ html {
   font-size: 1.125rem;
 }
 
-.card dl {
+.cards dl {
   margin-bottom: 1rem;
 }
 
@@ -46,7 +46,6 @@ html {
   display: inline-block;
   width: 6em;
   font-style: italic;
-
 }
 
 .cards dd {
